@@ -1,4 +1,5 @@
 //convert the upper case into lower by string using iterators:-
+//This is good for practise code
 #include<iostream>
 #include<string>
 using namespace std;
